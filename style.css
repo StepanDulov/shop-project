@@ -17,7 +17,7 @@ body {
 }
 
 .row::after, .menu::after {
-   content: ; 
+   content: ""; 
    display: block;
    clear: both;
 }
